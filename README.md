@@ -5,4 +5,3 @@
 
 Software downloads:
 * [![ci_calc downloads](https://img.shields.io/github/downloads/robinsane/compound_interest_calculator/total)](https://github.com/Robinsane/compound_interest_calculator) - Compound interest calculator  
-* 
