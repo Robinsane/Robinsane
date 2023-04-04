@@ -3,5 +3,4 @@
 
 [![Robin's github stats](https://github-readme-stats.vercel.app/api?username=robinsane&show_icons=true&theme=dark)](https://github.com/Robinsane)   
 
-Software downloads:
-* [![GitHub all releases](https://img.shields.io/github/downloads/robinsane/compound_interest_calculator/total?label=ci_calc%20downloads)](https://github.com/Robinsane/compound_interest_calculator)
+[![GitHub all releases](https://img.shields.io/github/downloads/robinsane/compound_interest_calculator/total?label=ci_calc%20downloads)](https://github.com/Robinsane/compound_interest_calculator)
